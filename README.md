@@ -11,6 +11,7 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagodevvv&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
+Tech and tools
 <div style="display: inline-block"><br>
 <img align="center" alt="Yago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="center" alt="Yago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
